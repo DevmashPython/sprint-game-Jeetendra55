@@ -43,3 +43,7 @@ while(1):
 time_elapsed=time.time()-s_time
 print "\ncongrats you have finished the game"
 print "\ntime taken is "+str(round(time_elapsed))
+
+'''
+1. The game should be lost on pressing the wrong key
+'''
